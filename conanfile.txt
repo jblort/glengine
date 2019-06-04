@@ -1,0 +1,8 @@
+[requires]
+catch2/2.2.2@bincrafters/stable
+glm/0.9.9.4@g-truc/stable
+glfw/3.3@bincrafters/stable
+
+[generators]
+cmake
+ycm
